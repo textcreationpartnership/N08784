@@ -107,8 +107,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:011225_0000_0F86ACEF2AC43630"/>
-            <pb facs="tcp:011225_0001_0F86ACEFEA9E7A08"/>
+            <pb facs="unknown:011225_0000_0F86ACEF2AC43630"/>
+            <pb facs="unknown:011225_0001_0F86ACEFEA9E7A08"/>
             <p>
                <hi>BOSTON,</hi> 25 <hi>January,</hi> 1769.</p>
             <p>A DIALOGUE BETWEEN Sir <hi>George Cornwell,</hi> A Gentleman lately arrived from <hi>England,</hi> with a Deſign to travel Incog. thro' the Continent of <hi>America,</hi> AND Mr. <hi>Flint,</hi> An Independent Gentleman, deſcended from a good Family of the firſt Settlers of <hi>New-England,</hi> that is neither Placed nor Penſioned.</p>
@@ -120,7 +120,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:011225_0002_0F86ACF0B6390310"/>
+            <pb facs="unknown:011225_0002_0F86ACF0B6390310"/>
             <head>A DIALOGUE, &amp;c.</head>
             <sp>
                <speaker>SIR GEO.)</speaker>
@@ -128,7 +128,7 @@
             </sp>
             <sp>
                <pb n="4"
-                   facs="tcp:011225_0003_0F86ACF166F0EAF8"
+                   facs="unknown:011225_0003_0F86ACF166F0EAF8"
                    rendition="simple:additions"/>
                <speaker>Mr. FLINT.)</speaker>
                <p>I am ſenſible, ſir, that it has been ſo repreſented, but in the courſe of your travels through this country, I doubt not but you will find it quite otherwiſe; you'll find that the late meaſures are diſ<g ref="char:EOLhyphen"/>liked by all orders of people thro' the continent, a few individuals excepted, that have rewards in view for profeſſing different ſentiments; I ſay <hi>profeſſing,</hi> for there is no man that can entertain real ſentiments in favor of either the juſtice or policy of the late meaſures; but I won't enter upon the ſubject now; let us take a walk upon 'change.</p>
@@ -141,7 +141,7 @@
                <speaker>Mr. FLINT.)</speaker>
                <p>Yes, this, ſir, is what we call our town houſe: Here our <hi>politicians, lawyers, merchants,</hi> and <hi>idle people</hi> walk an hour before dinner to ſettle the nation, while they are creating an appetite. Do you obſerve you group of people upon thoſe ſteps at the north ſide of the 'change? thoſe are the people that have <hi>aſſumed</hi> to themſelves the name of <hi>preroga<g ref="char:EOLhyphen"/>tive men,</hi> while in fact every man has in view ſome reward for putting on that character; for you muſt know that the real diſintereſted <hi>prerogative men,</hi> are thoſe who have been repreſented home as Sons of Liberty and licentiouſneſs. And I muſt now tell you, however ſurprizing, that thoſe now diſtinguiſhed by the name of <hi>prerogative</hi> men, are altogether compoſed of theſe four ſorts of people; high <hi>jacobites,</hi> men that have made all that they have by <hi>ſmuggling<g ref="char:punc">▪</g>
                   </hi> officers of the R—e <hi>that have defrauded the Crown</hi> of all that they are worth;—and poor <hi>indigent</hi>
-                  <pb n="5" facs="tcp:011225_0004_0F86ACF22533AA98"/>creatures that are ſeeking little places or <hi>penſions</hi> from G—t: Theſe are the ſort of people that wholly compoſe that <hi>prerogative group,</hi> as they are ironically ſtiled in this place.</p>
+                  <pb n="5" facs="unknown:011225_0004_0F86ACF22533AA98"/>creatures that are ſeeking little places or <hi>penſions</hi> from G—t: Theſe are the ſort of people that wholly compoſe that <hi>prerogative group,</hi> as they are ironically ſtiled in this place.</p>
             </sp>
             <sp>
                <speaker>Sir GEO.)</speaker>
@@ -157,7 +157,7 @@
                <p>I have heard of him in England—but in a very different character from that you give,— tho' lately his duplicity has been ſuſpected by thoſe he pays court to there; pray who is that grave, ſigni<g ref="char:EOLhyphen"/>ficant <hi>Spaniſh Phiz</hi> by the ſide of him?</p>
             </sp>
             <sp>
-               <pb n="6" facs="tcp:011225_0005_0F86ACF2E443A930"/>
+               <pb n="6" facs="unknown:011225_0005_0F86ACF2E443A930"/>
                <speaker>Mr. FLINT.)</speaker>
                <p>That Sir, is a retailer of tea in this town; he has been all his life poor till within a few years,—his private life is good; and as he is ſuppoſed to have laid by two or three thouſand pounds, he has a great inclination to the <hi>county bench,</hi> which his countenance is well ſuited for; yet for all that im<g ref="char:EOLhyphen"/>portant <hi>ſpaniſh gravity,</hi> diſcourſe him for a whole year together, and you'll find that that appearance incloſes nothing but lead; having the place I have mentioned in view, he is a down right <hi>prerogative man</hi> Sir, quite ſtanch indeed, and humbly devoted to the <hi>Tall-Man.</hi>
                </p>
@@ -177,7 +177,7 @@
             </sp>
             <sp>
                <pb n="7"
-                   facs="tcp:011225_0006_0F86ACF5E43E9468"
+                   facs="unknown:011225_0006_0F86ACF5E43E9468"
                    rendition="simple:additions"/>
                <speaker>Mr. FLINT.)</speaker>
                <p>That, Sir, is indeed a young, old man; he is a county ſtate officer, tho' not yet em<g ref="char:EOLhyphen"/>powered to impannel the J—y: He is <hi>(next to Charles Froth)</hi> his Ex—y's favorite butterfly, and a very high <hi>prerogative man,</hi> Sir, with very ſlender ideas of either <hi>honor</hi> or <hi>ſincerity.</hi>
@@ -199,7 +199,7 @@
                <speaker>Mr. FLINT.)</speaker>
                <p>That, Sir, is a dealer in the iron-mongery way; he lived a batchelor many years, much reſpected, but having married into <hi>good blood,</hi> he was bid to be a man of mettle, and keep company with <hi>great folks,</hi> which <hi>Verres</hi> told him could not be with<g ref="char:EOLhyphen"/>out his appearing on the right ſide, (which ſhould be pointed out to him) and then he would be <hi>ſome-body;</hi>
                   <pb n="8"
-                      facs="tcp:011225_0007_0F86ACF6AD043B20"
+                      facs="unknown:011225_0007_0F86ACF6AD043B20"
                       rendition="simple:additions"/>upon which he became an high <hi>prerogative man, Sir,</hi> with good madeira at his table, but precious <hi>little ſenſe</hi> or converſation to entertain his company with; he, however, poſſeſſes ſome good qualities, and by his old acquaintance, is yet, more <hi>pittied</hi> than deſpiſed.</p>
             </sp>
             <sp>
@@ -221,7 +221,7 @@
             </sp>
             <sp>
                <pb n="9"
-                   facs="tcp:011225_0008_0F86772E05224CF0"
+                   facs="unknown:011225_0008_0F86772E05224CF0"
                    rendition="simple:additions"/>
                <speaker>Sir GEO.)</speaker>
                <p>Ay! then he certainly will be diſap<g ref="char:EOLhyphen"/>pointed, for the Tall Man never will get to the helm, for this reaſon, that it is <hi>now</hi> well known in England he has ſacrificed every conſideration to obtain it: Pray who is that gentleman with a ſmiling countenance?</p>
@@ -240,7 +240,7 @@
             </sp>
             <sp>
                <pb n="10"
-                   facs="tcp:011225_0009_0F86772C75866C50"
+                   facs="unknown:011225_0009_0F86772C75866C50"
                    rendition="simple:additions"/>
                <speaker>Sir GEO.)</speaker>
                <p>Then he is an able ſtateſman indeed; and who is that other truſs man that looks up with ſo much <hi>pompoſity?</hi>
@@ -259,7 +259,7 @@
                <speaker>Mr. FLINT.)</speaker>
                <p>That, Sir, is a <hi>Bretton,</hi> that made the beſt of his way out of Scotland very ſoon after a certain affair that took place in 1745. He lived ob<g ref="char:EOLhyphen"/>ſcure, and intimate with poverty for ſeveral years in one of our ſouthern colonies, and is now here a hanger on, upon a worthy ſiſter that advantageouſly married to a ſuperanuated gentleman of fortune: He is now of the quorum, and one of <hi>Verres</hi>'s private council, and nocturnal informers, ready, and waiting to receive any little favor that the Com—rs or his Ex—cy can procure him; for which he is <hi>(Culloden out of
 <pb n="11"
-                         facs="tcp:011225_0010_0F86772D719E54E0"
+                         facs="unknown:011225_0010_0F86772D719E54E0"
                          rendition="simple:additions"/>the queſtion)</hi> a very ſtaunch <hi>prerogative</hi> man Sir, bray<g ref="char:EOLhyphen"/>ing out paſſive obedience in <hi>the truebroadScotch accent.</hi>
                </p>
             </sp>
@@ -288,7 +288,7 @@
             </sp>
             <sp>
                <pb n="12"
-                   facs="tcp:011225_0011_0F86772BAB0D6878"
+                   facs="unknown:011225_0011_0F86772BAB0D6878"
                    rendition="simple:additions"/>
                <speaker>Mr. FLINT.)</speaker>
                <p>Oh! that Sir is a curious creature indeed: He was bred a brazier in this town, and with<g ref="char:EOLhyphen"/>out any other education, ſomehow or other got into the good graces of a gentleman's daughter, a very good woman, with whom he had two or three thouſand pounds. Upon this acquiſition, he took to an indolent idle life, read romances, plays, news-papers and pam<g ref="char:EOLhyphen"/>phlets; and in his own <hi>inſenſate</hi> imagination became a man of letters, wrote a ſatyrical piece upon his neigh<g ref="char:EOLhyphen"/>bour <hi>Sir Charles Froth,</hi> and is now (through poverty) become the pimp and ſpy to that very man, fetches and carries news, throws anonymous letters into peo<g ref="char:EOLhyphen"/>ples yards, conveys—ſeditious papers to the officers of the army and navy <hi>(as from the people)</hi> or any other ſuch kind of buſineſs, as <hi>Charles</hi> may have oc<g ref="char:EOLhyphen"/>caſion to tranſact; for which, it is ſaid, he is encoura<g ref="char:EOLhyphen"/>ged to hope for a Waiter's birth at Marblehead, Cape-Ann, or ſome of thoſe kind of places; and on that account he is a very high <hi>prerogative man</hi> Sir, has re<g ref="char:EOLhyphen"/>futed many of Mr. Locke's beſt arguments in favor of civil liberty, and is himſelf truly obedient to all acts of parliament, except ſuch as oblige a man to <hi>pay his debts.</hi>—Theſe Sir, are the ſort of people that aſ<g ref="char:EOLhyphen"/>ſume the name of <hi>prerogative men.</hi>
@@ -303,7 +303,7 @@
                <p>Why! no Sir, it is worth but little; <gap reason="illegible" resp="#UOM" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> then its generally for life; and there is a kind of
-<pb n="13" facs="tcp:011225_0012_0F867728B13E0C70"/>reverence and reſpect attending it, that is very taking to weak minds.</p>
+<pb n="13" facs="unknown:011225_0012_0F867728B13E0C70"/>reverence and reſpect attending it, that is very taking to weak minds.</p>
             </sp>
             <sp>
                <speaker>Sir GEO.)</speaker>
@@ -318,7 +318,7 @@
                <p>With all my heart, I will go with you to the aſſembly; but I muſt endeavour to diſguiſe myſelf; for as I go to St. George's church when I am in London, poſſibly <hi>Shylock</hi> may have received con<g ref="char:EOLhyphen"/>tribution from me, and may diſcover who I am, which would deſtroy my plan. But who are thoſe two gen<g ref="char:EOLhyphen"/>tlemen in black, paſſing through the Town-houſe?</p>
             </sp>
             <sp>
-               <pb n="14" facs="tcp:011225_0013_0F867727EE26D1C0"/>
+               <pb n="14" facs="unknown:011225_0013_0F867727EE26D1C0"/>
                <speaker>Mr. FLINT.)</speaker>
                <p>They are two clergymen from the North, that have been well reſpected, one of them very much eſteemed, but being blindly devoted to the Tall-man, they are, (in oppugnation to all ſenſe and reaſon, as well as—to their former ſentiments) become down right <hi>prerogative men</hi> Sir. to the loſs of a great ſhare of that eſteem and reſpect they once had from the good people of this province.</p>
             </sp>
